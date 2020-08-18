@@ -1,0 +1,48 @@
+.main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.s {
+    width: 30px;
+    height: 30px;
+}
+
+.m {
+    width: 60px;
+    height: 60px;
+}
+
+.l {
+    width: 120px;
+    height: 120px;
+}
+
+.round {
+    border-radius: 8px;
+}
+.circle {
+    border-radius: 50%;
+}
+
+.xl {
+    width: 200px;
+    height: 200px;
+}
+.card {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    flex-basis: 30%;
+    border: 2px solid rgb(250, 242, 242);
+    margin: 5px;
+    width: 250px;
+    padding: 20px;
+}
+
+.content {
+    margin-top: 5%;
+}
+p {
+    width: 200px;
+}

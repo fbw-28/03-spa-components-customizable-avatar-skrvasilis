@@ -2,5 +2,6 @@
 import React from "react"
 import App from "./App.js"
 import reactDOM from "react-dom"
+import Naqvi from "./App.js"
 
-reactDOM.render(<App/>,document.getElementById("root"))
+reactDOM.render(<Naqvi/>,document.getElementById("root"))
